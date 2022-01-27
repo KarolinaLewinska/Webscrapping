@@ -1,6 +1,4 @@
 # Web Scrapping Python
-Analysis of data from websites of electronic's shops with the usage of web scrapping methods.<br/>
-•	[Morele](https://www.morele.net/),<br/>
-•	[Avans](https://www.avans.pl/),<br/>
-•	[Vobis](https://vobis.pl/).<br/>
 
+## Description
+The analysis of data from websites of electronic's shops ([Morele](https://www.morele.net/), [Avans](https://www.avans.pl/), [Vobis](https://vobis.pl/)) with the usage of web scrapping methods.
